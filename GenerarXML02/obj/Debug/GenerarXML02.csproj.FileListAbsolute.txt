@@ -1,0 +1,6 @@
+c:\users\el-to\onedrive\documentos\visual studio 2015\Projects\GenerarXML02\GenerarXML02\bin\Debug\GenerarXML02.exe.config
+c:\users\el-to\onedrive\documentos\visual studio 2015\Projects\GenerarXML02\GenerarXML02\bin\Debug\GenerarXML02.exe
+c:\users\el-to\onedrive\documentos\visual studio 2015\Projects\GenerarXML02\GenerarXML02\bin\Debug\GenerarXML02.pdb
+c:\users\el-to\onedrive\documentos\visual studio 2015\Projects\GenerarXML02\GenerarXML02\obj\Debug\GenerarXML02.csprojResolveAssemblyReference.cache
+c:\users\el-to\onedrive\documentos\visual studio 2015\Projects\GenerarXML02\GenerarXML02\obj\Debug\GenerarXML02.exe
+c:\users\el-to\onedrive\documentos\visual studio 2015\Projects\GenerarXML02\GenerarXML02\obj\Debug\GenerarXML02.pdb
